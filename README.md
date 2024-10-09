@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Public Services Softwares
+- 🌱 I’m currently learning C, Javascript, Python
+- 👯 I’m looking to collaborate on Open Source Beginner Friedly initiatives
